@@ -1,0 +1,109 @@
+p {
+  font-family: 'Noto Serif Georgian', serif;
+  color: #FA9494;
+}
+
+h1 {
+  font-family: 'Noto Serif Georgian', serif;
+  font-size: 25px;
+  color: #fff;
+}
+
+h2 {
+  font-family: 'Noto Serif Georgian', serif;
+  padding: 3rem;
+}
+
+h3 {
+  font-family: 'Rubik Dirt', cursive;
+  font-weight: 900;
+  color: #2B7A0B;
+}
+
+
+
+
+
+#section-header {
+  background-color: #A66CFF;
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.musiks {
+  color: #FA9494;
+  text-decoration: none;
+}
+
+.musiks:hover {
+  color: #fff;
+}
+
+.first-container {
+  margin-top: 30px;
+}
+
+#music-section {
+  text-align: center;
+  background-color: #607EAA;
+}
+
+.first-image {
+  width: 50%;
+  border: solid;
+  border-color: #fff;
+  border-radius: 50%;
+}
+
+.caruseli {
+  padding: 7% 15%;
+}
+
+.gios {
+  text-decoration: none;
+  color: #FA9494;
+}
+
+.gios:hover {
+  color: #355764;
+}
+
+.second-image {
+  width: 30%;
+  border-radius: 50%;
+  border: solid;
+  border-color: #fff;
+
+}
+
+.choxoebi {
+  text-decoration: none;
+  color: #FA9494;
+}
+
+.choxoebi:hover {
+  color: #355764;
+}
+
+#third-section {
+  text-align: center;
+}
+
+.last-column {
+  text-align: left;
+}
+
+.random {
+  text-decoration: none;
+  color: #355764;
+}
+
+.random:hover {
+  color: #5A8F7B;
+}
+
+#last-section {
+  text-align: center;
+  background-color: #A66CFF;
+  padding: 20px;
+}
